@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/DetailViewController.swift"
+            timestampString = "539656442.955752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.valueField.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656294.830494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.valueField.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656294.831898"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CriminalIntent.DetailViewController"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656294.8332421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CriminalIntent.DetailViewController&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656294.8345619"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/DetailViewController.swift"
+            timestampString = "539656442.955752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.nameField.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656292.85075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.nameField.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656292.853374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CriminalIntent.DetailViewController"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656292.85498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CriminalIntent.DetailViewController&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656292.856393"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/DetailViewController.swift"
+            timestampString = "539656442.955752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.nameField.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656331.671506"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.nameField.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656331.67291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CriminalIntent.DetailViewController"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656331.674276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CriminalIntent.DetailViewController&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656331.67558"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/DetailViewController.swift"
+            timestampString = "539656442.955752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.serialNumberField.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656333.877028"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.serialNumberField.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656333.87839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CriminalIntent.DetailViewController"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656333.879699"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CriminalIntent.DetailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CriminalIntent.DetailViewController&gt;"
+                  moduleName = "CriminalIntent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/BLUE/IOS/criminal%20intent/Homepwner/Homepwner/DetailViewController.swift"
+                  timestampString = "539656333.880991"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/DetailDateController.swift"
+            timestampString = "540264758.494311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
